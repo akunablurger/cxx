@@ -547,7 +547,7 @@ Loop
     Sleep, 937
     Send, {2}
     Sleep, 937
-    Send, {5}
+    Send, {6}
     Sleep, 1000
     Send, {2}
     Sleep, 750
